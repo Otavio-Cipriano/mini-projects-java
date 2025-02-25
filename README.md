@@ -3,7 +3,7 @@
 This repository contains small projects developed in java to study and practice.
 
 ## 📌 Projects Includes>
-- ** Calculator** → Simples calculator.
+- **Calculator** → Simples calculator.
 - **Palindrome** → Check if a words is a palidrome.
 - **Temperature Converter** → Convert between Celsius, Fahrenheit, and Kelvin.
 - **Fibonacci Sequence** → Print the first n numbers in the Fibonnaci sequence.
